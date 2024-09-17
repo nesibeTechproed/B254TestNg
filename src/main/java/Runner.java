@@ -10,7 +10,8 @@ public class Runner {
         System.out.println("techpro 3");
         //remoteda değişiklik
         System.out.println("developer 1 in commiti");
-        //githubta commit 
+        //githubta commit
+        System.out.println("techpro 4");
 
     }
 }
