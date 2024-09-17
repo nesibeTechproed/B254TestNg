@@ -11,6 +11,6 @@ public class Runner {
         //remoteda değişiklik
         System.out.println("developer 1 in commiti");
         //githubta commit 
-
+        //developer2 buraya kod yazdı.
     }
 }
